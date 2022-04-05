@@ -14,7 +14,7 @@ span{
 }
 
 .title{
-  background-image: url(./components/img/header.jpg);
+  background-image: url(./components/img/logo.jpg);
 }
 
 .textdangky{
@@ -31,7 +31,7 @@ span{
   font-size: 10px;
   width: 100%;
   height: 100%;
-  border: 2px#79bc4b solid;
+  border: 2px #79bc4b solid;
   background-color: white;
   border-radius: 3px;
 }
@@ -46,4 +46,8 @@ span{
 .active {
   color: #fff;
   background-color: #79bc4b !important;
+}
+
+.data{
+  background-color: green;
 }
